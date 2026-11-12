@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 25" width="26" height="25">
+	<title>Folder 4</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #f53425 } 
+		.t1 { font-size: 17px;line-height: 26px;fill: #ffffff;font-weight: 600;font-family: "Poppins-SemiBold", "Poppins" } 
+	</style>
+	<g id="Folder 4">
+		<path id="Ellipse 1 copy" class="s0" d="m13.5 0c6.9 0 12.5 5.6 12.5 12.5 0 6.9-5.6 12.5-12.5 12.5-6.9 0-12.5-5.6-12.5-12.5 0-6.9 5.6-12.5 12.5-12.5z"/>
+		<text id="?" style="transform: matrix(1,0,0,1,9,19)" >
+			<tspan x="0" y="0" class="t1" dx="0" >?</tspan><tspan  y="0" class="t1" dx="0" >
+</tspan>
+		</text>
+	</g>
+</svg>

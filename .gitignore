@@ -1,0 +1,13 @@
+# Python scripts (keep if needed for future translations)
+*.py
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
